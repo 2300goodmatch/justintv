@@ -1,2 +1,2 @@
-# justintv
-Justin Tv ⚡
+# Justin Tv ⚡
+### Justin TV, dünya çapında birçok farklı kategoride canlı yayın hizmeti sunan öncü platformlardan biriydi. Spor karşılaşmaları, eğlence ve oyun yayınlarıyla geniş bir kullanıcı kitlesine hitap eden Justin TV, zamanla yerini farklı canlı yayın platformlarına bıraktı. Ancak geçmişte sunduğu özgür yayıncılık anlayışı ve sporseverlere sağladığı erişim kolaylığı sayesinde hâlâ akıllarda yer edinmiş bir isimdir.
